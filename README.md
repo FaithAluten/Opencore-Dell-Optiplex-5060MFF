@@ -6,7 +6,8 @@
 <li>电源：90w戴尔原装</li>
 <li>cpu：8600t</li>
 <li>网卡：bcm943224pciebt2</li>
-<li>opencore 0.7.8, macOS 12.6</li>
+<li>opencore版本：0.7.8</li>
+<li>macOS版本：12.6</li>
 
 ## 已知问题
 
